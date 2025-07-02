@@ -19,7 +19,9 @@ You can **add**, **edit**, **delete**, and **mark tasks as done**, with schedule
 ## 📱 Screenshots
 
 ![Screenshot_2025-07-02-00-28-02-62_a8eb0d29ed5b162858d8df90bce9df15](https://github.com/user-attachments/assets/db0fc5f6-597e-4b44-9eaf-d09060bc7a83)
+
 ![Screenshot_2025-07-02-00-28-07-24_a8eb0d29ed5b162858d8df90bce9df15](https://github.com/user-attachments/assets/ce252507-95fa-485a-a4a5-c782228a6f51)
+
 ![Screenshot_2025-07-02-00-28-11-02_a8eb0d29ed5b162858d8df90bce9df15](https://github.com/user-attachments/assets/18290e9a-192f-4cb2-85ec-2860b9ec89c7)
 
 ---
